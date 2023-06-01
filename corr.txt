@@ -1,0 +1,16 @@
+Correlation research:
+Correlation coefficient for literacy and migration: 1.0
+Correlation coefficient for area and population: 0.4699850837184817
+Correlation coefficient for gdp and migration: 0.38125588179294834
+Correlation coefficient for literacy and gdp: 0.38125588179294834
+Correlation coefficient for gdp and area: 0.07282334939487542
+Correlation coefficient for migration and area: 0.04747196287893978
+Correlation coefficient for literacy and area: 0.04747196287893978
+Correlation coefficient for infantMortality and population: 0.026077125012690983
+Correlation coefficient for migration and population: 3.61798854374589E-5
+Correlation coefficient for literacy and population: 3.61798854374589E-5
+Correlation coefficient for infantMortality and area: -0.00332236816005638
+Correlation coefficient for infantMortality and literacy: -0.02474668466472835
+Correlation coefficient for infantMortality and migration: -0.02474668466472835
+Correlation coefficient for gdp and population: -0.03820831036295654
+Correlation coefficient for infantMortality and gdp: -0.5858662199451903
